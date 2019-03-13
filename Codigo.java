@@ -3,6 +3,7 @@ public class prueba {
 
 	public String metodo(){
 
-		return "Practica monzon";
+		return "Practica ads - Lucas";
+
 	}
 }
